@@ -5,7 +5,6 @@ Stack: BigQuery, Looker Studio.
 Screens of my report in Looker Studio (not a fan of LS! 😂):
 
 <img src="https://github.com/lennchi/data_engineering_course/raw/main/img/de_01_buying_behavior.png" width="300">
-
-![02](https://github.com/lennchi/data_engineering_course/blob/main/img/de_02_customer_churn.png | width=100)
-![03](https://github.com/lennchi/data_engineering_course/blob/main/img/de_03_customer_churn.png | width=200)
-![04](https://github.com/lennchi/data_engineering_course/blob/main/img/de_04_customer_churn.png | width=300)
+<img src="https://github.com/lennchi/data_engineering_course/raw/main/img/de_02_customer_churn.png" width="300">
+<img src="https://github.com/lennchi/data_engineering_course/raw/main/img/de_03_customer_churn.png" width="300">
+<img src="https://github.com/lennchi/data_engineering_course/raw/main/img/de_04_customer_churn.png" width="300">
